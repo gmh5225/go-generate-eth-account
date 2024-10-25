@@ -1,4 +1,4 @@
-module go_generate_eth_account
+module github.com/gmh5225/go-generate-eth-account
 
 go 1.22.5
 
