@@ -12,7 +12,7 @@ go install github.com/gmh5225/go-generate-eth-account@v0.0.1
 
 ## Uninstall
 ``
-where/which EIP1559-sender
+where/which go-generate-eth-account
 ``
 
 ## Clean module cache
